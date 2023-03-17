@@ -1,4 +1,4 @@
-package Tasks.Lesson2;
+package tasks.lesson2;
 
 import java.io.File;
 import java.io.FileOutputStream;

@@ -1,4 +1,4 @@
-package Tasks.Lesson2;
+package tasks.lesson2;
 
 public class Main2 {
 
